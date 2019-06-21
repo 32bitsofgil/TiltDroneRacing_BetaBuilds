@@ -1,6 +1,5 @@
 # TiltDroneRacing_BetaBuilds
 Here lies the beta builds of Tilt: Drone Racing
-Please Select the corresponding build according to your operating system:
 
 NOTE: These builds are password protected. Authorized access is only available to our early Patreon supporters. To find out how you can get early RC access, visit the following link to our Patreon page:
 https://www.patreon.com/tiltdroneracing
